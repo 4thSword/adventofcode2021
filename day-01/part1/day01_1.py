@@ -1,5 +1,5 @@
 # measures
-with open('input_1.txt') as f:
+with open('day-01/input_1.txt') as f:
     lines = f.readlines()
 
 measures = []
